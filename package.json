@@ -1,0 +1,28 @@
+{
+  "name": "0023Modulo6PracticaFaker",
+  "version": "1.0.0",
+  "description": "Ejercicio Práctico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/operezedutecno/0023Modulo6PracticaFaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/operezedutecno/0023Modulo6PracticaFaker/issues"
+  },
+  "homepage": "https://github.com/operezedutecno/0023Modulo6PracticaFaker#readme",
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "moment": "^2.29.4",
+    "rut.js": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
